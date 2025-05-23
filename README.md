@@ -55,6 +55,18 @@ DAY 3
 
 -Concept covered: Predicate and functional interface, Consumer and Supplier interface
 
+
+#try2
+
+-Structed version of emp1
+
+-Filter employee by age using predicate interface
+
+-Calculate bonus using functional interface
+
+-Concept covered: Predicate and functional interface, Consumer and Supplier interface
+
+
 DAY 4
 
 #springframework
@@ -66,6 +78,10 @@ DAY 4
 #studentTeacherBean
 
 -concept covered: Scope of beans,Component,componentscan,configuration
+
+DAY 5
+
+#
 
 
 
