@@ -55,5 +55,17 @@ DAY 3
 
 -Concept covered: Predicate and functional interface, Consumer and Supplier interface
 
+DAY 4
+
+#springframework
+
+- car and bike obj depends on vehicle
+  
+  -Concepts covered: IOC and DI using setters and contructor
+
+#studentTeacherBean
+
+-concept covered: Scope of beans,Component,componentscan,configuration
+
 
 
