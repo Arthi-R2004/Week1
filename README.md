@@ -72,6 +72,8 @@ DAY 4
 #springframework
 
 - car and bike obj depends on vehicle
+
+-uses xml configuration
   
   -Concepts covered: IOC and DI using setters and contructor
 
@@ -81,7 +83,18 @@ DAY 4
 
 DAY 5
 
-#
+#springFrame work
+
+-uses annotation instead xml configuartion  of Day 4 file
+
+-concepts covered:Autowire,,Component,componentscan,configuration
+
+
+#carBikeAutowireQualfier
+
+-uses qualifier to specify the bean that is used by vechicle
+
+-concepts covered: Qualifier,Autowire
 
 
 
